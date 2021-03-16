@@ -1,0 +1,8 @@
+gemm.sh
+trsm.sh
+trmm.sh
+lu_nopiv.sh 
+lu_incpiv.sh 
+lu_piv.sh 
+syrk.sh
+chol.sh
